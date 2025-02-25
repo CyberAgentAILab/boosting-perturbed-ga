@@ -1,0 +1,8 @@
+# @package _global_
+feedback: full
+T: 100000
+n_trials: 1
+max_workers: 1
+defaults:
+  - _self_
+  - override /game : hard_concave_convex

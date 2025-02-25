@@ -1,0 +1,9 @@
+# @package _global_
+feedback: noisy
+noise_std: 0.1
+T: 100000
+n_trials: 10
+max_workers: 1
+defaults:
+  - _self_
+  - override /game : hard_concave_convex

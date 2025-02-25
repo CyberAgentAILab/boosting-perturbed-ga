@@ -1,0 +1,7 @@
+
+alg_names: APGA
+mutation_rate: 0.1
+update_slingshot_freq: #None
+defaults:
+  - GA
+  - _self_

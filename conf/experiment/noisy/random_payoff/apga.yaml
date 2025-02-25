@@ -1,0 +1,9 @@
+# @package _global_
+algorithm:
+  learning_rate: 0.001
+  update_slingshot_freq: 2000
+  mutation_rate: 1.0
+defaults:
+  - noisy/random_payoff/common
+  - override /algorithm : APGA
+  - _self_

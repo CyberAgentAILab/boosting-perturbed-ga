@@ -1,0 +1,4 @@
+alg_names: GABP
+defaults:
+  - APGA
+  - _self_

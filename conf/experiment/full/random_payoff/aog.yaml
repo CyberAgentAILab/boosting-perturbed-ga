@@ -1,0 +1,7 @@
+# @package _global_
+algorithm:
+  learning_rate: 0.05
+defaults:
+  - full/random_payoff/common
+  - override /algorithm : AOG
+  - _self_

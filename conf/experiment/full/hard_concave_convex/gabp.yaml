@@ -1,0 +1,9 @@
+# @package _global_
+algorithm:
+  learning_rate: 1.0
+  update_slingshot_freq: 20
+  mutation_rate: 0.1
+defaults:
+  - full/hard_concave_convex/common
+  - override /algorithm : GABP
+  - _self_

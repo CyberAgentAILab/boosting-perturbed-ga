@@ -1,0 +1,8 @@
+# @package _global_
+feedback: full
+T: 1000
+n_trials: 50
+max_workers: -1
+defaults:
+  - _self_
+  - override /game : random_payoff

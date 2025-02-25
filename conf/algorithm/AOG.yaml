@@ -1,0 +1,5 @@
+
+alg_names: AOG
+defaults:
+  - GA
+  - _self_

@@ -1,0 +1,7 @@
+# @package _global_
+algorithm:
+  learning_rate: 0.5
+defaults:
+  - noisy/hard_concave_convex/common
+  - override /algorithm : OG
+  - _self_

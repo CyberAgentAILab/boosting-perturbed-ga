@@ -1,0 +1,3 @@
+random_payoff:
+  n_actions: 50
+game_name: random_payoff

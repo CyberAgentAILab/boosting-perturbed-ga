@@ -1,0 +1,4 @@
+hard_concave_convex:
+  num_actions: 100
+  limit: 200
+game_name: hard_concave_convex

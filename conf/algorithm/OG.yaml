@@ -1,0 +1,5 @@
+
+alg_names: OG
+defaults:
+  - GA
+  - _self_
